@@ -1,8 +1,9 @@
+<br>
 ### Hello, I'm Yuri Yi 👋
-<br><br>
+<br>
 - 🌱 I’m currently learning ...
 <br>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
 
 <!--
 **YYRi9/YYRi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
