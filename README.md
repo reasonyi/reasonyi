@@ -1,7 +1,7 @@
 ### Hello, I'm Yuri Yi 👋
 
 - 🌱 I’m currently learning ...
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
 <!--
 **YYRi9/YYRi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
