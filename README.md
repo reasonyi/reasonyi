@@ -5,9 +5,9 @@
 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
 </pre>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYRi9&layout=compact)](https://github.com/YYRi9/github-readme-stats)
-<br>
+<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYRi9&theme=buefy&show_icons=true)
+<br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=reasonyi)](https://solved.ac/reasonyi)
 
