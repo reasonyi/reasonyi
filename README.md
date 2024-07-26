@@ -10,9 +10,7 @@
   <br><br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reasonyi&theme=buefy&show_icons=true)
   <br><br>
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=reasonyi)](https://solved.ac/reasonyi)
-
+  
 </div>
 
 <!--
